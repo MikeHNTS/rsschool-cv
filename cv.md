@@ -2,7 +2,7 @@
 
 # Michael Vorobyev
 
-### Junior Frontend Developer
+### Frontend Developer
 
 ###### Contact Information
 
