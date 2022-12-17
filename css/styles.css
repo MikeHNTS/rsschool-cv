@@ -1,0 +1,104 @@
+* {
+  box-sizing: border-box;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  list-style: none;
+  font-size: 14px;
+  background: lightgray;
+}
+
+.nav-link {
+  padding: 0 30px;
+  line-height: 50px;
+}
+
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: Arial, Arial, Helvetica, sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+  text-align: center;
+  /*background: rgb(191, 226, 153);*/
+}
+
+
+p {
+  padding: 0px;
+  margin: 25px;
+  text-align: left;
+  /*max-width: 50%;*/
+}
+
+
+#my-name {
+  color: blue;
+  font-weight: bold;
+}
+
+
+.target-pos {
+  text-align: left;
+}
+
+.para-name {
+  text-align: left;
+}
+
+.para-contacts {
+  font-size: 15px;
+  padding: 1px;
+  margin: 1px;
+  text-align: left;
+}
+
+.para-head {
+  font-size: 16px;
+  padding: 10px;
+  margin: 0px;
+  text-align: left;
+}
+
+.para-list {
+  font-size: 15px;
+  padding: 1px;
+  margin: 1px;
+  text-align: left;
+}
+
+
+.task-desc {
+  font-style: italic;
+  background: lightgray;
+  text-align: left;
+  /*max-width: 50%;*/
+}
+
+.code-sample {
+  font-size: 15px;
+  padding: 25px;
+  text-align: left;
+  /*background: lightgray;*/
+}
+
+.list-block {
+  text-align: left;
+}
+
+.foot-look {
+  margin: 0 auto;
+  font-size: 12px;
+}
